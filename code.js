@@ -43,3 +43,12 @@ console.log(isEven(2))
 console.log(isEven(3))
 console.log(isEven("8"))
 console.log(isEven())
+
+
+// isVowel
+
+function isVowel() {
+    return
+}
+
+
