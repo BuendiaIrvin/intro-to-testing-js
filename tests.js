@@ -223,5 +223,3 @@ describe('isVowel', function() {
     });
 });
 
-// expect(number.isNaN
-
